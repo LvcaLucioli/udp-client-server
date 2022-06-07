@@ -17,4 +17,10 @@ Avvio del client allo stesso modo:
 ```
 PS C:\Users\Admin\path\to\client> .\client.exe 10000
 ```
+# Comandi
+* **help**: mosta la lista dei comandi disponibili
+* **get <filename>**: download del file remoto dal server
+* **put <filename>**: upload del file locale sul server
+* **list**: mostra la lista dei file presenti nel server 
+* **quit**:
 
